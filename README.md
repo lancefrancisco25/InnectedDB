@@ -1,4 +1,4 @@
-# InnectedDB
+# Innected 
 Welcome!<br>🖖
 *Why write a whole paragraph if then I will get a TL;DR afterwards?*
 
