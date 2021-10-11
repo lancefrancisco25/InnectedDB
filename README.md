@@ -21,21 +21,30 @@ If you have questions or issues to solve about something even slightly related, 
 - Specialty: Full stack design
 - Tech stack: `html`, `css`, `js`, `nodejs`, `expressjs`, `reactjs`, `nextjs`, `mongodb`, `pug`, `mysql`, `bcrypt`, `php`
 - Partecipating in [CodeCraft](#codecraft) [Mantaining the website]
+<br>Excited to work in these kind of projects: 
 
 **@Codanium#0410**
 - Tech stack: `html`, `css`, `js`, `nodejs`, `reactjs`, `pug`, `python`, `django`
+<br>Excited to work in these kind of projects: 
+
 
 **@addarg7#9917**
 - Specialty: Frontend + Backend Logic 
 - Tech stack: `html`, `css`, `js`, `nodejs`
+<br>Excited to work in these kind of projects: 
+
 
 **@Zero1#9007**
 - Owner of [Devs For Hire & Jobs](#devsforhire)
+<br>Excited to work in these kind of projects: 
+
 
 **@FanaticR#0637**
 - Speciality: Focused on management
 - Tech stack: Frontend with understanding of backend
 - Partecipating in [CodeCraft](#codecraft) [Management]
+<br>Excited to work in these kind of projects: 
+
 <br>
 <br>
 
@@ -45,11 +54,12 @@ If you have questions or issues to solve about something even slightly related, 
 
 **[Codecraft](https://c0decraft.netlify.app/)** <br>
 Discord community based on programming, coding and helping newbies on their journey to potential experts of their language **NOT LIMITED TO WEB DEVELOPMENT**
-
+<br>Main use cases:
 <div id="devsforhire">
 
 **[Devs For Hire & Jobs](https://discord.gg/awHZtSf89q**)**<br>
 Discord community for Hiring/Getting hired as a developer. **NOT LIMITED TO WEB DEVELOPMENT**
+<br>Main use cases:
 
 
 ## Community 🤼
