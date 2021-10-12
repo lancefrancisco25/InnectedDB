@@ -17,7 +17,7 @@ If you have questions or issues to solve about something even slightly related, 
 ## **People**
 
 
-**[@imSinginin#1009](link to your github/portfolio)**
+**[@imSinginin#1009](http://lancefranciscomacos.vercel.app/)**
 - Specialty: Full stack design
 - Tech stack: `html`, `css`, `js`, `nodejs`, `expressjs`, `reactjs`, `nextjs`, `mongodb`, `pug`, `mysql`, `bcrypt`, `php`
 - Partecipating in [CodeCraft](#codecraft) [Mantaining the website]
